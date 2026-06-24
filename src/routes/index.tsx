@@ -64,7 +64,7 @@ function Index() {
             <Link to="/projects" className="brutal-border bg-foreground text-background px-5 py-3 font-black uppercase brutal-shadow-sm inline-flex items-center gap-2 hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-[6px_6px_0_0_var(--color-ink)] transition-all">
               Lihat Project <ArrowRight className="h-4 w-4" />
             </Link>
-            <Link to="/contact" className="brutal-border bg-card px-5 py-3 font-black uppercase brutal-shadow-sm hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-[6px_6px_0_0_var(--color-ink)] transition-all">
+            <Link to="https://drive.google.com/file/d/1yKMMWX4qacHpEfCcyUYZkIe4fSJDoQoH/view?usp=drivesdk" className="brutal-border bg-card px-5 py-3 font-black uppercase brutal-shadow-sm hover:translate-x-[-2px] hover:translate-y-[-2px] hover:shadow-[6px_6px_0_0_var(--color-ink)] transition-all">
               RESUME
             </Link>
           </div>
